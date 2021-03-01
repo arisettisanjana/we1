@@ -11,8 +11,11 @@ label{
     color: aqua;
     height: 20px;
 }
-input [type=submit]:hover{
-    color: firebrick;
+button{
+    background-color:aquamarine;
+}
+button:hover{
+    color:darkkhaki;
 }
 h1{
     text-align: center;
